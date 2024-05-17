@@ -1,0 +1,12 @@
+> For linux Intel/AMD use:
+        - linux_amd
+> For macos Intel use:
+        - macos_amd
+> For macos M chip use:
+        - macos_arm
+        
+Programs on Windows OS are not well supported.
+Use it if you like, but don't expect fluency.
+
+> For Windows Intel/AMD use:
+        - windows_amd
